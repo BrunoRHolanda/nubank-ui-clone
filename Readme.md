@@ -1,6 +1,6 @@
 # Estrutura do Projeto
 
-'''
+```
 
 nubank-ui-clone
 ├── api                         - configuração de conexões com apis externas
@@ -42,4 +42,4 @@ nubank-ui-clone
 │   └── Router.ts
 └── App.js
 
-'''
+```
